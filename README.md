@@ -12,10 +12,6 @@ This project implements a phishing detection system using a combination of URL f
 - [Model Architecture](#model-architecture)
 - [Model Training & Optimization](#model-training--optimization)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
